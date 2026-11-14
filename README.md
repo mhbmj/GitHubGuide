@@ -15,5 +15,5 @@
 | نام | شماره دانشجویی | نقش |
 |---|---|---|
 | مهتاب مروج | 40273118 | Scrum Master و Frontend Developer |
-| شیبا شجاعی | 4027311 | Backend Developer |
-| ماریه غفله مرمضی | 40073 | Backend Developer |
+| شیبا شجاعی | 40273112 | Backend Developer |
+| ماریه غفله مرمضی | 40073127 | Backend Developer |
