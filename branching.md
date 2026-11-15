@@ -196,3 +196,4 @@ git switch -c <name>          # ساخت و رفتن
 git branch -d <name>          # حذف شاخه
 git push -u origin <name>     # ارسال شاخه به GitHub
 ```
+(این مستند برای دانشجویان مبتدی نوشته شده است.)
